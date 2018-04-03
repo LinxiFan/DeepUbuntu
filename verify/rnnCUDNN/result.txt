@@ -1,0 +1,5 @@
+Forward:  42 GFLOPS
+Backward: 626 GFLOPS, (397 GFLOPS), (1479 GFLOPS)
+i checksum 1.728288E+05     c checksum 2.268482E+05     h checksum 2.890986E+04
+di checksum 4.229683E+02    dc checksum 2.644233E+03    dh checksum 1.246006E+01
+dw checksum 5.489209E+07
