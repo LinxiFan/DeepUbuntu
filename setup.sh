@@ -6,4 +6,4 @@ cat $1/bashrc_patch.sh >> ~/.bashrc
 echo '~/.bashrc successfully patched'
 
 mkdir -p ~/.jupyter
-cp -f jupyter_notebook_config.py ~/.jupyter
+cp -f $1/jupyter_notebook_config.py ~/.jupyter
